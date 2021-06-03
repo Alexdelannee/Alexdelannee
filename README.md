@@ -2,9 +2,11 @@
 [![Alexdelannee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexdelannee)](https://github.com/Alexdelannee/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/Alexdelannee/github-readme-stats)
-[![Alexdelannee's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anuraghazra)](https://github.com/Alexdelannee/github-readme-stats)
 
 <!--
+[![Alexdelannee's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anuraghazra)](https://github.com/Alexdelannee/github-readme-stats)
+
+
 **Alexdelannee/Alexdelannee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
