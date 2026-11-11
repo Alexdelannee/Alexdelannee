@@ -1,22 +1,19 @@
 ### Hi there 👋
-[![Alexdelannee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexdelannee)](https://github.com/Alexdelannee/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/Alexdelannee/github-readme-stats)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alexdelannee/Alexdelannee/main/profile-summary-card-output/github_dark/0-profile-details.svg">
+  <img alt="Profile details" src="https://raw.githubusercontent.com/Alexdelannee/Alexdelannee/main/profile-summary-card-output/github/0-profile-details.svg">
+</picture>
 
-<!--
-[![Alexdelannee's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anuraghazra)](https://github.com/Alexdelannee/github-readme-stats)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alexdelannee/Alexdelannee/main/profile-summary-card-output/github_dark/3-stats.svg">
+  <img alt="GitHub stats" src="https://raw.githubusercontent.com/Alexdelannee/Alexdelannee/main/profile-summary-card-output/github/3-stats.svg">
+</picture>
 
-
-**Alexdelannee/Alexdelannee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alexdelannee/Alexdelannee/main/profile-summary-card-output/github_dark/1-repos-per-language.svg">
+  <img alt="Top languages by repo" src="https://raw.githubusercontent.com/Alexdelannee/Alexdelannee/main/profile-summary-card-output/github/1-repos-per-language.svg">
+</picture> <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alexdelannee/Alexdelannee/main/profile-summary-card-output/github_dark/2-most-commit-language.svg">
+  <img alt="Top languages by commit" src="https://raw.githubusercontent.com/Alexdelannee/Alexdelannee/main/profile-summary-card-output/github/2-most-commit-language.svg">
+</picture>
